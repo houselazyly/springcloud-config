@@ -1,3 +1,5 @@
 spring:
   application:
     name: cloud-config-dev
+config:
+  info: this is a sample for springcloud config
